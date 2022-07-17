@@ -22,9 +22,9 @@
 <a href="mailto:satwikprabhu@gmail.com" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height=45px" alt="Gmail">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-    <a href="https://www.linkedin.com/in/satwik-prabhu-223456245">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="50px" width="50px"  alt="Linkedin">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/satwik-prabhu-223456245">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="50px">
+</a>
 </p>
 
 
