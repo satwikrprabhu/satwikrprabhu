@@ -2,8 +2,7 @@
   ### I'm Satwik Prabhu
 
 - 💫 I'm currently pursuing Bachelor's Degree in Computer Science
-- 😎 One quote that defines me - "Jack of all Trades, Master of None"
-- 👐 I love meeting new people. You can speak to me on any topic, I'll always be curious. 
+- 😎 Quote that defines me - "Jack of all Trades, Master of None" 
 ## Languages, Tools and Technologies
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="50px">
