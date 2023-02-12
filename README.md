@@ -48,3 +48,6 @@
 <p align = "center">
   <img src= "https://github-readme-stats.vercel.app/api?username=satwikprabhu&show_icons=true&count_private=true&theme=tokyonight&line_height=27">
 </p>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=satwikrprabhu.satwikrprabhu)
+
