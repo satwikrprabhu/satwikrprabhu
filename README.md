@@ -44,10 +44,11 @@
 </p>
 
 
-## My Github Stats
-<p align = "center">
-  <img src= "https://github-readme-stats.vercel.app/api?username=satwikprabhu&show_icons=true&count_private=true&theme=tokyonight&line_height=27">
-</p>
+## My Github Stats📈:
+<div>
+   <img src="http://github-readme-streak-stats.herokuapp.com?user=satwikrprabhu&theme=dark&background=000000"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=satwikrprabhu"/>
+</div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=satwikrprabhu.satwikrprabhu)
 
