@@ -48,7 +48,9 @@
 
 ## My Github Stats📈:
 <div>
-   <img src="https://github-readme-stats.vercel.app/api?username=satwikrprabhu"/>
+<!--    <img src="https://github-readme-stats.vercel.app/api?username=satwikrprabhu"/> -->
+   <img src = "https://github-readme-stats.vercel.app/api?username=satwikrprabhu&count_private=true">
+                                                                              
    <img src="http://github-readme-streak-stats.herokuapp.com?user=satwikrprabhu&theme=dark&background=000000"/>
 </div>
 
