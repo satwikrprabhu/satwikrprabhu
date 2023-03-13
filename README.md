@@ -50,8 +50,9 @@
 <div>
 <!--    <img src="https://github-readme-stats.vercel.app/api?username=satwikrprabhu"/> -->
    <img src = "https://github-readme-stats.vercel.app/api?username=satwikrprabhu&count_private=true">
+   <img src = "https://github-readme-stats.vercel.app/api?username=satwikrprabhu&show_icons=true&count_private=true&theme=tokyonight&line_height=27">
                                                                               
-   <img src="https://komarev.com/ghpvc/?username=satwikrprabhu&label=Views&color=blue&style=plastic" alt="satwikrprabhu" />
+  
 </div>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=satwikrprabhu.satwikrprabhu)
