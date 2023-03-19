@@ -52,9 +52,10 @@
 ## My Github Stats📈:
 <div>
 <!--    <img src="https://github-readme-stats.vercel.app/api?username=satwikrprabhu"/> -->
-   <img src = "https://github-readme-stats.vercel.app/api?username=satwikrprabhu&count_private=true">
-   <img src = "https://github-readme-stats.vercel.app/api?username=satwikrprabhu&show_icons=true&count_private=true&theme=tokyonight&line_height=27">
-                                                                              
+<!--    <img src = "https://github-readme-stats.vercel.app/api?username=satwikrprabhu&count_private=true"> -->
+   <img src = "https://github-readme-stats.vercel.app/api?username=satwikrprabhu&show_icons=true&count_private=true&theme=tokyonight&line_height=25">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=satwikrprabhu&theme=dark&background=000000"/>
+                                                                           
   
 </div>
 
