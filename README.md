@@ -1,13 +1,17 @@
 # Hi there 👋
-  ### I'm Satwik Prabhu
-<div>
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI5ODZlM2JkN2MxYzhiNWYwZDljYWY2NTY3YTIyYzhjOGI4ZTcxNCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="350" height="250">
-<br>
 
+  ### I'm Satwik Prabhu
+
+
+<br>
+  
 - 💫 I'm currently pursuing Bachelor's Degree in Computer Science
 - 😎 Jack of all Trades, Master of None
-</div>
+- 💪 Driven by a keen interest in web development and a strong desire to learn.
+- 🙌 I am constantly seeking new opportunities to enhance my skills.
 
+<br>
 
 ## Languages, Tools and Technologies
 <p align="center">
