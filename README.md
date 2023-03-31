@@ -1,8 +1,14 @@
 # Hi there 👋
   ### I'm Satwik Prabhu
+<div>
+<img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI5ODZlM2JkN2MxYzhiNWYwZDljYWY2NTY3YTIyYzhjOGI4ZTcxNCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="350" height="250">
+<br>
 
 - 💫 I'm currently pursuing Bachelor's Degree in Computer Science
 - 😎 Jack of all Trades, Master of None
+</div>
+
+
 ## Languages, Tools and Technologies
 <p align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="50px">
@@ -39,10 +45,10 @@
 <a href="http://www.instagram.com/satwikprabhu" height="50px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" height="50px" alt="Instagram">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-<a href="mailto:satwikprabhu@gmail.com" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height=45px" alt="Gmail">
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:satwikprabhu@gmail.com" target="_blank">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height=50px" alt="Gmail">
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
    <a href="https://www.linkedin.com/in/satwik-prabhu-223456245">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="50px">
 </a>
