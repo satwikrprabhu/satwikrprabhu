@@ -1,4 +1,5 @@
 # Hi there 👋
+[![An image of @satwikrprabhu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/satwikrprabhu)](https://holopin.io/@satwikrprabhu)
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI5ODZlM2JkN2MxYzhiNWYwZDljYWY2NTY3YTIyYzhjOGI4ZTcxNCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="350" height="250">
 
 
